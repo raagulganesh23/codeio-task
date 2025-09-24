@@ -1,3 +1,5 @@
+package Week1;
+
 public class ElectricityBill {
     public static void main(String[] args){
         int familyBill = 550;//Units - Rupees

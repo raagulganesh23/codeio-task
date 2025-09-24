@@ -1,3 +1,5 @@
+package Week1;
+
 public class SpeedCheck {
     public static void main(String[] args){
         int speedLimit = 60; //Units km/hr

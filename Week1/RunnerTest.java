@@ -1,3 +1,5 @@
+package Week1;
+
 public class RunnerTest {
     public static void main(String[] args){
         int time1 = 18;

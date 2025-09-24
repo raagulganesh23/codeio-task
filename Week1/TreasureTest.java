@@ -1,3 +1,5 @@
+package Week1;
+
 public class TreasureTest {
     public static void main(String[] args) {
         int a = 100;

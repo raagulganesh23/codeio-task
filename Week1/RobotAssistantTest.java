@@ -1,3 +1,5 @@
+package Week1;
+
 public class RobotAssistantTest {
     public static void main(String[] args){
         int a = 6; int b =7;

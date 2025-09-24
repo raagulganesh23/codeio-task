@@ -1,3 +1,5 @@
+package Week1;
+
 public class GradeCalculator {
     public static void main(String[] args){
         int studentMark = 49;

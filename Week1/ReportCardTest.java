@@ -1,3 +1,5 @@
+package Week1;
+
 public class ReportCardTest {
     public static void main(String[] args){
         int marks = 45;
